@@ -25,14 +25,14 @@
 
 
 			<div class="navbar-header">
-				<button class="navbar-toggle" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button> <a class="navbar-brand" href="#">Phoenix. Portal</a>
+				<button class="navbar-toggle" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="#">Phoenix.</a>
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 
 
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav">
-					<li>
+					<li class="active">
 						<a href="index.html">Home</a>
 					</li>
 
@@ -47,8 +47,8 @@
 					</li>
 
 
-					<li class="active">
-						<a href="players.html">Music</a>
+					<li>
+						<a href="music.html">Music</a>
 					</li>
 				</ul>
 
@@ -76,24 +76,24 @@
 
 		<div class="row" id="myAbout">
 			<div class="col-lg-12">
-				<h1 class="page-header">Music</h1>
+				<h1 class="page-header">Welcome! <small>Phoenix. Home Page</small></h1>
 			</div>
 		</div>
 
 
 		<div class="row">
-			<div class="col-lg-12">
-				<div class="container">
-					<h2>Radio Javan</h2>
+			<div class="col-lg-2">
+			</div>
 
 
-					<p>Live Stream from Radio Javan</p>
-
-
-					<div class="embed-responsive embed-responsive-16by9">
-						<iframe class="embed-responsive-item" src="https://www.radiojavan.com/radio/player"></iframe>
-					</div>
+			<div class="col-lg-4 text-center">
+				<div class="centerBlock"><img alt="Me" class="img-responsive img-circle" src="PhoenixLogo.png" style="height: 150px;">
 				</div>
+			</div>
+
+
+			<div class="col-lg-4">
+				<p>Hello! Welcome to the Steam In Game Browser Home Page of Phoenix.! Feel free to set this as your home page for quick access to common links or a quick Google search, all in one stop!</p>
 			</div>
 		</div>
 
