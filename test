@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+
+	<title>Phoenix.</title>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css' rel='stylesheet prefetch'>
+	<link href="css/style.css" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js">
+	</script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
+	</script>
+</head>
+
+<body>
+	<link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"><!-- Navigation -->
+
+
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+
+
+			<div class="navbar-header">
+				<button class="navbar-toggle" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="#">Phoenix.</a>
+			</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+
+
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li class="active">
+						<a href="index.html">Home</a>
+					</li>
+
+
+					<li>
+						<a href="https://discord.gg/zFjKysu" target="_blank">Link to Discord</a>
+					</li>
+
+
+					<li>
+						<a href="http://forums.29th.org/" target="_blank">29th ID Forums</a>
+					</li>
+
+
+					<li>
+						<a href="music.html">Music</a>
+					</li>
+				</ul>
+
+
+				<form action="https://www.google.com/search" class="navbar-form navbar-right" method="get">
+					<div class="input-group">
+						<input class="form-control" name="q" placeholder="Google Search" type="text">
+
+						<div class="input-group-btn">
+							<button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+						</div>
+					</div>
+				</form>
+			</div>
+			<!-- /.navbar-collapse -->
+		</div>
+		<!-- /.container -->
+	</nav>
+	<!-- Page Content -->
+
+
+	<div class="container">
+		<!-- Section Heading -->
+
+
+		<div class="row" id="myAbout">
+			<div class="col-lg-12">
+				<h1 class="page-header">Welcome! <small>Phoenix. Home Page</small></h1>
+			</div>
+		</div>
+
+
+		<div class="row">
+			<div class="col-lg-2">
+			</div>
+
+
+			<div class="col-lg-4 text-center">
+				<div class="centerBlock"><img alt="Me" class="img-responsive img-circle" src="PhoenixLogo.png" style="height: 150px;">
+				</div>
+			</div>
+
+
+			<div class="col-lg-4">
+				<p>Hello! Welcome to the Steam In Game Browser Home Page of Phoenix.! Feel free to set this as your home page for quick access to common links or a quick Google search, all in one stop!</p>
+			</div>
+		</div>
+
+		<hr>
+
+
+		<ul class="list-inline text-center">
+			<li>
+				<a href="http://steamcommunity.com/id/coolfool9592/"><img class="img-responsive img-circle" src="steamlogo.png" style="height: 37px;"></a>
+			</li>
+		</ul>
+		<!-- Footer -->
+
+
+		<footer>
+			<div class="row">
+				<div class="col-lg-12">
+					<p>Created by Phoenix.</p>
+				</div>
+			</div>
+			<!-- /.row -->
+		</footer>
+	</div>
+</body>
+</html>
